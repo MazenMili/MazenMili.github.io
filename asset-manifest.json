@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MazenMili.github.io/static/css/main.099f8e22.css",
+    "main.js": "/MazenMili.github.io/static/js/main.0a8e7071.js",
+    "index.html": "/MazenMili.github.io/index.html",
+    "main.099f8e22.css.map": "/MazenMili.github.io/static/css/main.099f8e22.css.map",
+    "main.0a8e7071.js.map": "/MazenMili.github.io/static/js/main.0a8e7071.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.099f8e22.css",
+    "static/js/main.0a8e7071.js"
+  ]
+}
